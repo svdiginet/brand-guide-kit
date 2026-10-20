@@ -13,6 +13,7 @@ Use this checkout as the single source of criteria. Resolve the actual skill dir
 - Create/update: [guide template](../../templates/brand-guide.md).
 - Audit: [audit template](../../templates/audit.md).
 - 3D work: [3D specification](../../templates/3d-spec.md).
+- Brand contracts and asset integrity: [local auditor](../../docs/brand-contract.md). Use one private `brand.json` per target brand. Run audit read-only first; UNKNOWN is not approval. Export copies approved pinned SVG bytes only, never redraws variants.
 - Research refresh: [official references](../../docs/references.md).
 
 ## Workflow

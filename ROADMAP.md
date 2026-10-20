@@ -8,5 +8,6 @@
 - [ ] Record an approved, rights-cleared example before advertising production results.
 
 ## Later, evidence first
-- [ ] Consider a renderer or automated asset audit only after repeated usage demonstrates a stable need.
+- [x] Add owner-requested local brand contract, read-only SVG/CSS auditor and byte-preserving export.
+- [ ] Image fidelity comparisons, rendered CSS checks and 3D renderer remain outside v0.2.
 - [ ] Do not add scheduled updates without explicit authorization.

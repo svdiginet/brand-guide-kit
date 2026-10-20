@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "name": "Sample Frame (fictional test fixture)",
+  "colors": {
+    "accent": "#F5C518",
+    "ink": "#0A0A0A"
+  },
+  "assets": [
+    {
+      "path": "mark.svg",
+      "approval": "approved",
+      "sha256": "bd607e14873f6170e6dd4fb22ae52348c77908ee9ee32db6b84bc9a9dadba62b",
+      "expected_fills": [
+        "#F5C518",
+        "#0A0A0A"
+      ]
+    }
+  ],
+  "css_files": [
+    "site.css"
+  ]
+}

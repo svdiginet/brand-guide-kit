@@ -14,6 +14,10 @@ A documentation-first toolkit by SVDIGINET: original standards, templates and an
 4. For dimensional work use [the 3D specification](templates/3d-spec.md).
 5. Run `python3 scripts/check.py` to validate this repository's documentation integrity. It does not certify a brand or audit external assets.
 
+## Brand contracts and asset checks
+
+Use [the local brand auditor](docs/brand-contract.md) to check declared SVG byte baselines, palette literals and live text. Its exporter copies pinned approved SVG bytes into a new folder; it does not generate artwork or certify visual quality. No third-party runtime dependency.
+
 ## Agent skill
 
 Read [skills/brand-guide-kit/SKILL.md](skills/brand-guide-kit/SKILL.md). The skill links to the same maintained criteria and templates; no separate copy of the rules.
