@@ -4,7 +4,7 @@
 - [x] Original standards and official reference register.
 - [x] Guide, audit and reproducible-3D specification templates.
 - [x] Shared Claude Code / Codex skill.
-- [ ] Owner chooses a distribution license. Public visibility does not grant reuse rights.
+- [x] Owner chose MIT as the distribution license (2026-10-20).
 - [ ] Record an approved, rights-cleared example before advertising production results.
 
 ## Later, evidence first

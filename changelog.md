@@ -7,3 +7,7 @@ Initial standards, guide/audit/3D templates, official references, cross-platform
 ## 0.2.0 - 2026-10-19
 
 Original JSON brand contract, local read-only SVG/CSS checks and pinned byte-copy SVG export. Adds regression tests and fictional fixture. No external code imported. No geometric or production certification.
+
+## 0.2.1 - 2026-10-20
+
+MIT license added (owner decision). README, CONTRIBUTING, ROADMAP and the license decision record updated. No code changes.

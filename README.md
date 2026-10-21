@@ -42,7 +42,7 @@ Logo fidelity, portable typography, responsive marks, functional icons, color, r
 
 [Official references](docs/references.md) link to public brand resources. No third-party logos, fonts, screenshots or manuals are redistributed. No client assets or private brand notes are included.
 
-**License: MISSING (owner decision pending).** Public visibility does not grant a reuse license. Do not describe this release as open source or copy it into commercial distributions until the owner chooses a license. Referenced brands retain their own rights.
+**License: MIT** (see `LICENSE`, chosen 2026-10-20). The standard, templates and scripts are open source. Referenced brands retain their own rights; no third-party asset is covered by this license.
 
 ## Maintain
 
